@@ -1,19 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\logo_magnolia.png",
-        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\mipmap-mdpi\\logo_magnolia.png"
-    },
-    {
         "merged": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_favorito.png",
         "source": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\mipmap-mdpi\\ic_favorito.png"
-    },
-    {
-        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_favorito.png",
-        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\mipmap-mdpi\\ic_favorito.png"
     },
     {
         "merged": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
