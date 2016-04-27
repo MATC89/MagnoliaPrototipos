@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\descricao.xml",
+        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\menu\\descricao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_descricao_drawer.xml",
+        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\menu\\activity_descricao_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Drieli\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Igor\\AndroidStudioProjects\\MagnoliaPrototipos\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
